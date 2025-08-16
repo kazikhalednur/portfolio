@@ -26,7 +26,6 @@ export const metadata: Metadata = {
 		'Experienced backend developer building secure, scalable APIs using Python & Django. Explore my projects and skills in cloud and database optimization.',
 	keywords: [
 		'kazikhalednur',
-		'KaziKhaledNur',
 		'Kazi Khaled Nur',
 		'Kazi Khaled',
 		'Khaled Nur',

@@ -19,7 +19,7 @@ export default function Projects() {
 					{[
 						{
 							title: 'Ecommerce API',
-							link: 'https://github.com/kazimdkhalednur/ecommerce-api',
+							link: 'https://github.com/kazikhalednur/ecommerce-api',
 							description:
 								'Developed an eCommerce platform with user authentication. Other features are under development.',
 							tools: [
@@ -35,14 +35,14 @@ export default function Projects() {
 						},
 						{
 							title: 'Ecommerce',
-							link: 'https://github.com/kazimdkhalednur/ecommerce',
+							link: 'https://github.com/kazikhalednur/ecommerce',
 							description:
 								'Developed a full stack eCommerce platform with user authentication, order management, and integrated payment gateway.',
 							tools: ['Django', 'Django REST Framework', 'PostgreSQL', 'SSLCommerze']
 						},
 						{
 							title: 'Elearning Platform',
-							link: 'https://github.com/kazimdkhalednur/elearning-platform',
+							link: 'https://github.com/kazikhalednur/elearning-platform',
 							description:
 								'Developed a full stack Elearning platform with user authentication and course management for both students and teachers.',
 							tools: [
