@@ -22,8 +22,8 @@ export default function Education() {
                             location: 'Dhaka, Bangladesh',
                             degree: 'BSc in Computer Science and Engineering (CSE)',
                             start_date: 'April 2022',
-                            end_date: 'Expected April 2026',
-                            cgpa: '3.74 out of 4.00',
+                            end_date: 'April 2026',
+                            cgpa: '3.71 out of 4.00',
                         },
                         // {
                         //     institution: 'Gazipur Cantonment College',

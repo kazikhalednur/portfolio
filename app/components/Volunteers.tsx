@@ -23,7 +23,7 @@ export default function Volunteer() {
                             org_url: 'https://cpc.daffodilvarsity.edu.bd',
                             location: 'Daffodil International University',
                             start_date: 'March 2025',
-                            end_date: 'Now',
+                            end_date: 'May 2026',
                             description:
                                 'Leading the Development Wing: planning technical roadmaps, organizing internal hackathons, and mentoring members in full-stack development.',
                             extra_link: {
@@ -37,7 +37,7 @@ export default function Volunteer() {
                             org_url: 'https://www.ccsbd.net/',
                             location: 'Daffodil International University',
                             start_date: 'November 2024',
-                            end_date: 'Now',
+                            end_date: 'May 2026',
                             description:
                                 'Leading awareness campaigns on consumer rights, educating the public, and managing outreach programs in Dhaka to empower individuals about their legal protections.',
                             extra_link: {
