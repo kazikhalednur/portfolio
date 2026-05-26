@@ -25,30 +25,30 @@ export default function Education() {
                             end_date: 'April 2026',
                             cgpa: '3.71 out of 4.00',
                         },
-                        // {
-                        //     institution: 'Gazipur Cantonment College',
-                        //     location: 'Gazipur, Bangladesh',
-                        //     degree: 'Higher School Certificate (HSC), Science',
-                        //     start_date: 'June 2018',
-                        //     end_date: 'June 2020',
-                        //     gpa: '5.00 out of 5.00',
-                        // },
-                        // {
-                        //     institution: 'M E H Arif College',
-                        //     location: 'Gazipur, Bangladesh',
-                        //     degree: 'Secondary School Certificate (SSC), Science',
-                        //     start_date: 'January 2016',
-                        //     end_date: 'June 2018',
-                        //     gpa: '5.00 out of 5.00',
-                        // },
-                        // {
-                        //     institution: 'HATAYKHARI PUBLIC SCHOOL & COLLEGE',
-                        //     location: 'Gazipur, Bangladesh',
-                        //     degree: 'Primary Education Certificate (PEC)',
-                        //     start_date: 'January 2012',
-                        //     end_date: 'December 2012',
-                        //     gpa: '5.00 out of 5.00',
-                        // }
+                        {
+                            institution: 'Gazipur Cantonment College',
+                            location: 'Gazipur, Bangladesh',
+                            degree: 'Higher School Certificate (HSC), Science',
+                            start_date: 'June 2018',
+                            end_date: 'June 2020',
+                            gpa: '5.00 out of 5.00',
+                        },
+                        {
+                            institution: 'M E H Arif College',
+                            location: 'Gazipur, Bangladesh',
+                            degree: 'Secondary School Certificate (SSC), Science',
+                            start_date: 'January 2016',
+                            end_date: 'June 2018',
+                            gpa: '5.00 out of 5.00',
+                        },
+                        {
+                            institution: 'HATAYKHARI PUBLIC SCHOOL & COLLEGE',
+                            location: 'Gazipur, Bangladesh',
+                            degree: 'Primary Education Certificate (PEC)',
+                            start_date: 'January 2012',
+                            end_date: 'December 2012',
+                            gpa: '5.00 out of 5.00',
+                        }
                     ].map((edu, index) => (
                         <motion.div
                             key={index}
